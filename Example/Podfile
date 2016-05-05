@@ -1,0 +1,8 @@
+use_frameworks!
+
+
+target 'ActionProtocol_Tests', :exclusive => true do
+  pod 'ActionProtocol', :path => '../'
+
+  
+end
