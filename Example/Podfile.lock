@@ -1,0 +1,14 @@
+PODS:
+  - ActionProtocol (0.1.0)
+
+DEPENDENCIES:
+  - ActionProtocol (from `../`)
+
+EXTERNAL SOURCES:
+  ActionProtocol:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ActionProtocol: 1bb2132e7e449ded1219aad48c34c3132153a4ee
+
+COCOAPODS: 0.39.0
