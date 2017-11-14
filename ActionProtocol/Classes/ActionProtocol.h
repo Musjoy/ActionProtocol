@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
-typedef void (^ActionVoidBlock)();
+typedef void (^ActionVoidBlock)(void);
 
 typedef void (^ActionValueBlock)(id data);
 
